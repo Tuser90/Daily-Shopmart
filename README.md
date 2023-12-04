@@ -1,1 +1,1 @@
-# Daily-Shopmart
+Daily Shopmart
