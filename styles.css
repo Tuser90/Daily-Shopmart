@@ -1,9 +1,9 @@
 body {
     margin: 0;
     background: pink;
-    text-align: centergit;
+    text-align: center;
 }
 
-<h1 style="color:blue;">A Blue Heading</h1>
-
-<p style="color:red;">A red paragraph.</p>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: blackco;}
