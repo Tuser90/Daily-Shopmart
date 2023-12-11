@@ -82,6 +82,16 @@ ul{
 	color: #ffffff;
 	transition: all 0.5s ease;
 }
+form button{
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	border-radius: 30px;
+	padding: 10px 30px;
+	font-size: 15px;
+	cursor: pointer;
+}
+}
 .footer-col .social-links a:hover{
 	color: #24262b;
 	background-color: #ffffff;
